@@ -1,4 +1,4 @@
 # scoreAnalysis
 数据分析期末作业
 python源码在development分支里
-word报告里有数据集来源
+数据集来源:https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset
